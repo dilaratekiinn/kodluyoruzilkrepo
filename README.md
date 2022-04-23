@@ -19,7 +19,7 @@
 
 <li>Repoyu açıp Code yazan yeşil butona tıklayın ve oradaki bağlantı ile bilgisayarınıza klonlayın.
  kullanabilirsiniz.
-<li>Repoyu bilgisayarımıza aldıktan sonra içine `README.md` adında bir Markdown dosya oluşturun.
+<li>Repoyu bilgisayarımıza aldıktan sonra içine README.md adında bir Markdown dosya oluşturun.
 <li>Markdown içeriği aşağıdaki gibi olacak şekilde düzenleyin. Markdown için önceki konumuza bakabilirsiniz.
   
   ![markdown](https://user-images.githubusercontent.com/65899853/164896592-01b7c2e6-8c26-46d0-ae90-c00dedd813da.png)
