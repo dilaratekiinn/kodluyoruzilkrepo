@@ -24,7 +24,7 @@
   ![markdown](https://user-images.githubusercontent.com/65899853/164896592-01b7c2e6-8c26-46d0-ae90-c00dedd813da.png)
 
   
-  Detaylı bakmak için Örnek Readme Dosyasını inceleyebilirsiniz.
+  Detaylı bakmak için [Örnek Readme Dosyası]nı(https://github.com/dilaratekiinn/kodluyoruzilkrepo/blob/master/README.md) inceleyebilirsiniz.
 
 <li>Markdown dosyanızın içine projemizin bir resmini koyun.
 <li>Repomuzun içine bir adet index.html dosyası oluşturun.
